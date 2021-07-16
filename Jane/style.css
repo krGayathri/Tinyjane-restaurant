@@ -1,0 +1,42 @@
+
+    body{
+    background: url('bg1.png') center center fixed no-repeat;
+    background-size: cover;
+    position: relative;
+    height:100%;
+    width:100%;
+}
+.button{
+    border:none;
+    color:#8D2828;
+    border-radius: 12px;
+    text-align: center;
+    text-decoration: none;
+    display:inline-block;
+    font-size: 30px;
+    background-color:#ECD662 ;
+    padding:20px 50px;
+}
+.button1{
+    border:none;
+    color:#8D2828;
+    border-radius: 12px;
+    text-align: center;
+    text-decoration: none;
+    display:inline-block;
+    font-size: 30px;
+    background-color:#ECD662 ;
+    padding:5px5 px;
+}
+.main{
+    padding-top: 25%;
+    padding-left: 27%;
+}
+h5{
+    font-size: 3rem;
+    font-weight: bold;
+}
+p{
+    font-size: 2rem;
+    font-weight: bold;
+}

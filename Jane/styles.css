@@ -1,0 +1,28 @@
+body{
+        background: url('bg2.jpg') center center fixed no-repeat;
+        background-size: cover;
+        position:absolute;
+        height:100%;
+        width:100%;
+    }
+    h1{
+        color:white;
+        font-size: 3rem;
+        font-weight: bold;
+        text-align: center;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    h2,h4,td{
+        color:white;
+        font-size: 1.5rem;
+        font-weight: bold;
+       
+    }
+    
+    .container{
+        padding-top: 7%;
+        padding-left:5%;;
+    }
+    img{
+        padding-left:10%;
+    }
